@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikpaiyudev
-- 👀 I’m interested in flutter , nextjs , mobile technologies , ai
+- 👀 I’m interested in flutter , nextjs , mobile technologies , ai and crypto
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 How to reach me nikhil.radhakrishnan@work.com
